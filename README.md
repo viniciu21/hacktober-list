@@ -23,3 +23,4 @@
 * https://github.com/mungell/awesome-for-beginners
 * PHP PSR Translation - https://github.com/phprn/psr
 * URI - Potigol - https://github.com/potigol/URI-Potigol
+* Card Game Pif Paf - https://github.com/viniciu21/PIfPafgame.git
